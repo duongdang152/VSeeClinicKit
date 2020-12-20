@@ -1,0 +1,11 @@
+framework module VSeeClinicKit {
+  umbrella header "VSeeClinicKit.h"
+
+  export *
+  module * { export * }
+}
+
+module VSeeClinicKit.Swift {
+    header "VSeeClinicKit-Swift.h"
+    requires objc
+}

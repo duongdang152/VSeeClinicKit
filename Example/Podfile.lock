@@ -1,0 +1,16 @@
+PODS:
+  - VSeeClinic (0.1.0)
+
+DEPENDENCIES:
+  - VSeeClinic (from `../`)
+
+EXTERNAL SOURCES:
+  VSeeClinic:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VSeeClinic: 8e84576113b18b3e5e006311f89a4809a32bbb88
+
+PODFILE CHECKSUM: cf9216025a4dcc8a7b0547720d4f46b567b4b2f0
+
+COCOAPODS: 1.9.1

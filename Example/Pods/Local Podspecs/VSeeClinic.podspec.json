@@ -1,0 +1,22 @@
+{
+  "name": "VSeeClinic",
+  "version": "0.1.0",
+  "summary": "A short description of VSeeClinic.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dhduongt3@gmail.com/VSeeClinic",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dhduongt3@gmail.com": "dhduongt3@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/dhduongt3@gmail.com/VSeeClinic.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "VSeeClinic/Classes/**/*"
+}

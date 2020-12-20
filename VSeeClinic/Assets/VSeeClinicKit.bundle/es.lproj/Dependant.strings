@@ -1,0 +1,14 @@
+/* Class = "UIButton"; normalTitle = "Add Dependant"; ObjectID = "AbE-rr-NAl"; */
+"AbE-rr-NAl.normalTitle" = "Agregar dependiente";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "HaV-bf-3Gt"; */
+"HaV-bf-3Gt.text" = "nombre";
+
+/* Class = "UIButton"; normalTitle = "Add Dependant"; ObjectID = "Jmr-cc-IV9"; */
+"Jmr-cc-IV9.normalTitle" = "Agregar dependiente";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "eCS-qP-T23"; */
+"eCS-qP-T23.normalTitle" = "Siguiente";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "rAS-qw-gVp"; */
+"rAS-qw-gVp.text" = "nombre";

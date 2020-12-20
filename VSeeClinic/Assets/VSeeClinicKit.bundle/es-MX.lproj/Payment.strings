@@ -1,0 +1,50 @@
+/* Class = "UILabel"; text = "Total"; ObjectID = "03j-aH-Jqc"; */
+"03j-aH-Jqc.text" = "Total";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "8aa-P6-zOu"; */
+"8aa-P6-zOu.text" = "Subtítulo";
+
+/* Class = "UILabel"; text = "card number"; ObjectID = "EkZ-42-q0q"; */
+"EkZ-42-q0q.text" = "número de tarjeta";
+
+/* Class = "UILabel"; text = "Name on the card"; ObjectID = "Fd1-eL-Xbk"; */
+"Fd1-eL-Xbk.text" = "Nombre en la tarjeta";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "R4d-Qs-GQy"; */
+"R4d-Qs-GQy.normalTitle" = "Siguiente";
+
+/* Class = "UILabel"; text = "price"; ObjectID = "WTx-Ca-qjt"; */
+"WTx-Ca-qjt.text" = "precio";
+
+/* Class = "UIButton"; normalTitle = "Add New Card"; ObjectID = "Y2d-Us-WBI"; */
+"Y2d-Us-WBI.normalTitle" = "Agregar tarjeta nueva";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "YZZ-ov-zFD"; */
+"YZZ-ov-zFD.normalTitle" = "Siguiente";
+
+/* Class = "UIButton"; normalTitle = "If you have a promo code, enter it here"; ObjectID = "fBz-Y4-r6C"; */
+"fBz-Y4-r6C.normalTitle" = "Si tienes un código promocional, ingrésalo aquí";
+
+/* Class = "UILabel"; text = "Card number"; ObjectID = "jXa-lT-ma2"; */
+"jXa-lT-ma2.text" = "Número de tarjeta";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "m0H-Hy-9XK"; */
+"m0H-Hy-9XK.normalTitle" = "Siguiente";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "qbQ-iN-nYL"; */
+"qbQ-iN-nYL.text" = "Cantidad";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "vSW-2j-Am8"; */
+"vSW-2j-Am8.title" = "Cancelar";
+
+/* Class = "UINavigationItem"; title = "Credit Card"; ObjectID = "vZ0-FP-oVx"; */
+"vZ0-FP-oVx.title" = "Tarjeta de crédito";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "xnj-an-sGd"; */
+"xnj-an-sGd.text" = "Título";
+
+/* Class = "UILabel"; text = "You will only be charged after the consultation"; ObjectID = "yKP-k7-7Bd"; */
+"yKP-k7-7Bd.text" = "Recibirás el cobro solo después de la consulta";
+
+/* Class = "UILabel"; text = "Estimate Charge"; ObjectID = "ygc-Wv-aMk"; */
+"ygc-Wv-aMk.text" = "Cargo estimado";

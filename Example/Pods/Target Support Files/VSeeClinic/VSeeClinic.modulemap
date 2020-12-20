@@ -1,0 +1,6 @@
+framework module VSeeClinic {
+  umbrella header "VSeeClinic-umbrella.h"
+
+  export *
+  module * { export * }
+}

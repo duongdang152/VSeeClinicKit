@@ -1,0 +1,8 @@
+/* Class = "UILabel"; text = "Prescribed by:"; ObjectID = "LeJ-G9-dzH"; */
+"LeJ-G9-dzH.text" = "Recetado por:";
+
+/* Class = "UILabel"; text = "Instructions:"; ObjectID = "j2Q-gu-rYa"; */
+"j2Q-gu-rYa.text" = "Instrucciones:";
+
+/* Class = "UILabel"; text = "Drug name"; ObjectID = "kcJ-Mv-i4B"; */
+"kcJ-Mv-i4B.text" = "Nombre de medicamento";

@@ -1,0 +1,53 @@
+/* Class = "UIButton"; normalTitle = "Find a pharmacy"; ObjectID = "4ZF-kO-LqD"; */
+"4ZF-kO-LqD.normalTitle" = "Encuentra una farmacia";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "I7Z-92-Apj"; */
+"I7Z-92-Apj.normalTitle" = "Buscar";
+
+/* Class = "UILabel"; text = "Include mail order pharmacy"; ObjectID = "Q6e-pT-PKs"; */
+"Q6e-pT-PKs.text" = "Incluir farmacia con pedidos por correo";
+
+/* Class = "UITextField"; placeholder = "Pharmacy Name"; ObjectID = "Wkp-hw-GDy"; */
+"Wkp-hw-GDy.placeholder" = "Nombre de farmacia";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "Xi8-Xq-17h"; */
+"Xi8-Xq-17h.text" = "Subtítulo";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "YEX-pb-z58"; */
+"YEX-pb-z58.title" = "Cancelar";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "Zaf-qg-PQO"; */
+"Zaf-qg-PQO.placeholder" = "Ciudad";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "a4s-S5-kiX"; */
+"a4s-S5-kiX.text" = "Título";
+
+/* Class = "UILabel"; text = "Zipcode"; ObjectID = "a65-qP-d0y"; */
+"a65-qP-d0y.text" = "Código postal";
+
+/* Class = "UILabel"; text = "State"; ObjectID = "bWb-F7-Wzh"; */
+"bWb-F7-Wzh.text" = "Estado";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "c9d-Iz-TJb"; */
+"c9d-Iz-TJb.normalTitle" = "Siguiente";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "kde-Fc-CLn"; */
+"kde-Fc-CLn.text" = "Título";
+
+/* Class = "UITextField"; placeholder = "Zipcode"; ObjectID = "lGc-Th-730"; */
+"lGc-Th-730.placeholder" = "Código postal";
+
+/* Class = "UILabel"; text = "Pharmacy Name"; ObjectID = "llQ-mW-iCD"; */
+"llQ-mW-iCD.text" = "Nombre de farmacia";
+
+/* Class = "UILabel"; text = "If you need a prescription today, where would you like it send?"; ObjectID = "nGD-CR-deO"; */
+"nGD-CR-deO.text" = "Si necesitas una receta hoy, ¿a dónde te gustaría que se envíe?";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "o48-ac-k1V"; */
+"o48-ac-k1V.text" = "Ciudad";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "pnb-c8-lfe"; */
+"pnb-c8-lfe.text" = "Subtítulo";
+
+/* Class = "UITextField"; placeholder = "State"; ObjectID = "wVf-au-jzb"; */
+"wVf-au-jzb.placeholder" = "Estado";

@@ -1,0 +1,26 @@
+/* Class = "UIButton"; normalTitle = "BOOK"; ObjectID = "3pG-jc-Yi8"; */
+"3pG-jc-Yi8.normalTitle" = "HACER CITA";
+
+/* Class = "UILabel"; text = "The estimated wait time is 5 minutes"; ObjectID = "4Ug-5l-t24"; */
+"4Ug-5l-t24.text" = "El tiempo de espera estimado es de 5 minutos";
+
+/* Class = "UIButton"; normalTitle = "Schedule an appointment"; ObjectID = "7u0-aY-e4H"; */
+"7u0-aY-e4H.normalTitle" = "Programar una cita";
+
+/* Class = "UILabel"; text = "Pick a Date and Time"; ObjectID = "QEq-Ad-Umq"; */
+"QEq-Ad-Umq.text" = "Elige la fecha y hora";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "Srq-EP-EXP"; */
+"Srq-EP-EXP.text" = "Hora";
+
+/* Class = "UIButton"; normalTitle = "See a doctor now"; ObjectID = "d52-h3-WF5"; */
+"d52-h3-WF5.normalTitle" = "Ver a un doctor ahora";
+
+/* Class = "UILabel"; text = "Choose to see a doctor now or schedule an appointment for a later time. The wait time is only an estimate. "; ObjectID = "j3z-8g-eeK"; */
+"j3z-8g-eeK.text" = "Elige ver a un doctor ahora o programar una cita para otro momento. El tiempo de espera es solo un estimado. ";
+
+/* Class = "UILabel"; text = "If this is an emergency, please call 911"; ObjectID = "xDJ-L4-P2i"; */
+"xDJ-L4-P2i.text" = "Si esto es una emergencia, llama al 911";
+
+/* Class = "UILabel"; text = "Footer"; ObjectID = "z9g-J0-ZM0"; */
+"z9g-J0-ZM0.text" = "Pie de página";
