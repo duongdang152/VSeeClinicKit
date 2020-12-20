@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'VSeeClinic_Example' do
+  pod 'VSeeClinic', :path => '../'
+
+  target 'VSeeClinic_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
